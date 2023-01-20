@@ -6,7 +6,7 @@
     var b=1;
     var nextTerm
     
-    var number = prompt('Enter number:')
+    var number = prompt('Enter a number:')
     document.write('Fibonacci Sequence: ');
     document.write(a, b);
     nextTerm = a+b;
